@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Diana
-- 👀 I have Bachelor's Degree in Informatics Engineering and Master's Degree in Entrepreneurship
-- 🌱 I’m currently learning data analytics and data science
-- 💞️ I’m also interested in stock trading
+- :mortar_board: I have Bachelor's Degree in Informatics Engineering and Master's Degree in Entrepreneurship
+- :rocket: I’m currently learning data analytics and data science
+- ⚡ I’m also interested in stock trading
 
 
 
