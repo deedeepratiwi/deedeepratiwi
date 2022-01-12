@@ -2,7 +2,16 @@
 - :mortar_board: I have Bachelor's Degree in Informatics Engineering and Master's Degree in Entrepreneurship
 - :rocket: I’m currently learning data analytics and data science
 - ⚡ I’m also interested in stock trading
-<br />
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('dianapratiwi', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Buy Me Coffee',
+    'floating-chat.donateButton.background-color': '#323842',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
 
 ## 📃 Latest Articles
 <br />
