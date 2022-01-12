@@ -3,16 +3,6 @@
 - :rocket: I’m currently learning data analytics and data science
 - ⚡ I’m also interested in stock trading
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('dianapratiwi', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Buy Me Coffee',
-    'floating-chat.donateButton.background-color': '#323842',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
-
 <a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' />
 
 ## 📃 Latest Articles
