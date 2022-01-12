@@ -2,7 +2,6 @@
 - :mortar_board: I have Bachelor's Degree in Informatics Engineering and Master's Degree in Entrepreneurship
 - :rocket: I’m currently learning data analytics and data science
 - ⚡ I’m also interested in stock trading
-<br />
 
 ## Connect with Me
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
