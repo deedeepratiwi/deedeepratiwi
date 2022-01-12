@@ -2,8 +2,7 @@
 - :mortar_board: I have Bachelor's Degree in Informatics Engineering and Master's Degree in Entrepreneurship
 - :rocket: I’m currently learning data analytics and data science
 - ⚡ I’m also interested in stock trading
-
-
+<br />
 
 ## 📫 Porftfolios & Badges
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="200" height="40">](https://public.tableau.com/app/profile/diana.pratiwi) &nbsp; &nbsp; &nbsp; [<img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" width="100" height="40">](https://www.credly.com/users/diana-pratiwi/badges)
@@ -11,6 +10,7 @@
 
 ## :chart_with_upwards_trend: GitHub Stats
 [![Diana’s github stats](https://github-readme-stats.vercel.app/api?username=deedeepratiwi)](https://github.com/deedeepratiwi)
+<br />
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deedeepratiwi&layout=compact)](https://github.com/deedeepratiwi)
 
 
