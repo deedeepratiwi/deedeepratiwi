@@ -9,7 +9,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="200" height="40">](https://public.tableau.com/app/profile/diana.pratiwi) &nbsp; &nbsp; &nbsp; [<img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" width="100" height="40">](https://www.credly.com/users/diana-pratiwi/badges)
 <br />
 
-
+## :chart_with_upwards_trend: GitHub Stats
 [![Diana’s github stats](https://github-readme-stats.vercel.app/api?username=deedeepratiwi)](https://github.com/deedeepratiwi)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deedeepratiwi&layout=compact)](https://github.com/deedeepratiwi)
 
