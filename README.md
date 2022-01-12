@@ -4,6 +4,10 @@
 - ⚡ I’m also interested in stock trading
 <br />
 
+## Connect with Me
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ## 📫 Porftfolios & Badges
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="200" height="40">](https://public.tableau.com/app/profile/diana.pratiwi) &nbsp; &nbsp; &nbsp; [<img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" width="100" height="40">](https://www.credly.com/users/diana-pratiwi/badges)
 <br />
