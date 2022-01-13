@@ -6,7 +6,8 @@
 <a href='https://ko-fi.com/dianapratiwi' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' />
 
 ## 📃 Latest Articles
-<br />
+[Web Scraping Tables from Wikipedia using BeautifulSoup in Python](https://medium.com/@deedeepratiwi/web-scraping-tables-from-wikipedia-using-beautifulsoup-in-python-3f7ee77d935b)
+<br /> 
 
 ## :mailbox_closed: Find Me at
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deedeepratiwi@gmail.com)
