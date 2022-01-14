@@ -6,6 +6,7 @@
 <a href='https://ko-fi.com/dianapratiwi' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' />
 
 ## 📃 Latest Articles
+- [Web Scraping Wikipedia Table using BeautifulSoup and pandas.read_html()](https://medium.com/@deedeepratiwi/web-scraping-wikipedia-table-using-beautifulsoup-and-pandas-read-html-5eb478023d13)
 - [Web Scraping Tables from Wikipedia using BeautifulSoup in Python](https://medium.com/@deedeepratiwi/web-scraping-tables-from-wikipedia-using-beautifulsoup-in-python-3f7ee77d935b)
 <br /> 
 
