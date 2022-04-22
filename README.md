@@ -30,6 +30,14 @@
 <br />
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deedeepratiwi&layout=compact)](https://github.com/deedeepratiwi)
 
+<br />
+<br />
+  
+## Kaggle Stats
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{dianapratiwi}/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{dianapratiwi}/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{dianapratiwi}/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{dianapratiwi}/discussion/light)
 
 <!---
 deedeepratiwi/deedeepratiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
